@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Game {
+public class Main {
     public static void main(String[] args) throws InterruptedException {
         // Make a user input Scanner object
         Scanner in = new Scanner(System.in);
